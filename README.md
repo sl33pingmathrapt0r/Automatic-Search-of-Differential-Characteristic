@@ -1,5 +1,6 @@
 # Automatic Search of Differential Characteristic
- To automate the search of differential characteristics in symmetric key ciphers
+ To automate the search of differential characteristics in symmetric key ciphers. 
+ SageMath kernel is used for Jupyter Notebooks. 
 
 Notebooks for viewing: 
 1. simple_spn.ipynb
