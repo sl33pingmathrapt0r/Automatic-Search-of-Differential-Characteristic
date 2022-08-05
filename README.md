@@ -10,3 +10,5 @@ Notebooks for viewing:
    - Based on the insights of "simple_spn.ipynb", attempt MILP on PRESENT-80 (up to 6 rounds)
    - (TODO) inclusion of Matsui's bound in MILP constraints
    - (TODO) using greedy algorithm to choose constraints
+
+Poster presented for NTU's Odyssey Research Programme 2022. 
