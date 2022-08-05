@@ -11,4 +11,6 @@ Notebooks for viewing:
    - (TODO) inclusion of Matsui's bound in MILP constraints
    - (TODO) using greedy algorithm to choose constraints
 
-Poster presented for NTU's Odyssey Research Programme 2022. 
+Done during NTU's Odyssey Research Programme 2022: 
+   - "MILP2_Report.pdf": Summary of a particular reading
+   - "Odyssey Poster.pdf": A0 poster for Odyssey symposium
